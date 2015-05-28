@@ -14,6 +14,11 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+
+        <article class="post-content">
+          {{ post.content }}
+        </article>
+        <a href="{{ post.url | prepend: site.baseurl }}">permalink/comment (you should comment! comments are awesome!)</a>
       </li>
     {% endfor %}
   </ul>
