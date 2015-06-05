@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   un-proofread to post to my main blog. For better writing, visit
   http://www.benkuhn.net/.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://benkuhn.github.io" # the base hostname & protocol for your site
+url: "http://scraps.benkuhn.net" # the base hostname & protocol for your site
 twitter_username: benskuhn
 github_username:  benkuhn
 
